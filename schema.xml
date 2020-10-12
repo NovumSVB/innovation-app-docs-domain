@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database name="hurah" custom="NovumDocs" crudNamespace="Crud\Custom\InnovationApp" crudRoot="Custom/NovumDocs" defaultIdMethod="native" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://novumgit.gitlab.io/innovation-app-schema-xsd/v1/schema-plus-crud.xsd" >
+
+    <modules>
+        <module name="Requirements" title="System requirements" icon="cogs" />
+    </modules>
+
+
+    <external-schema filename="../../schema/core-schema-extra.xml" />
+    <external-schema filename="../../schema/schema.xml" />
+
+
+</database>
+
