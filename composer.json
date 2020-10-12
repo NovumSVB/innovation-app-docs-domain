@@ -1,5 +1,5 @@
 {
-    "name": "novum/domain-svb",
+    "name": "novum/domain-innovation-app-docs",
     "type": "novum-domain",
     "require": {
         "novum/innovation-app-core": "*",
@@ -8,12 +8,13 @@
     },
     "license": "MIT",
     "prefer-stable": true,
-    "description": "Fake \"de Sociale verzekeringsbank (SVB)\" domain definition files",
-    "homepage": "https://innovatie.app.demo.novum.nu",
+    "description": "Domain files for the Novum innovation app documentation",
+    "homepage": "https://docs.demo.novum.nu",
     "minimum-stability": "dev",
     "keywords": [
         "novum",
         "innovatie lab",
+        "documentatie",
         "nlx",
         "api"
     ],
