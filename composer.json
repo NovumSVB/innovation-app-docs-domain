@@ -28,7 +28,7 @@
             "email": "info@novum.nu"
         }
     ],
-    "extra" : [
-        "system_id" : "novum.docs"
-    ]
+    "extra" : {
+        "system_id": "novum.docs"
+    }
 }
