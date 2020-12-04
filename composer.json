@@ -1,5 +1,5 @@
 {
-    "name": "novum/domain-innovation-app-docs",
+    "name": "novum/domain-docs",
     "type": "novum-domain",
     "require": {
         "novum/innovation-app-core": "*",
